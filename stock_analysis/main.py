@@ -64,6 +64,7 @@ class Stock:
 
         print("Recurrently Out of Stock POS:")
         print(recurrent_out_of_stock)
+        print("Magic stuuuffff")
 
     def close_connection(self):
         self.conn.close()
